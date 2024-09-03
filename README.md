@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋, My name is Lohaine!</h2>
-
 - 🌱 Frontend Developer;
 - 🌱 Formada em Turismo e Gestão de RH;
 - 🌱 Desenvolvedora em treinamento;
@@ -45,6 +44,16 @@
 ###
 
 <p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
 
 ###
 
