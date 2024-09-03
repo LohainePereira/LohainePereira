@@ -1,8 +1,9 @@
 <h2 align="left">Hi 👋, My name is Lohaine!</h2>
+
 - 🌱 Frontend Developer;
 - 🌱 Formada em Turismo e Gestão de RH;
 - 🌱 Desenvolvedora em treinamento;
-
+  
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/45/77/85/4577853f98ae7f2320f091dc999c30ac.gif"  />
@@ -40,6 +41,10 @@
 ###
 
 <p align="left">Hello World!!</p>
+
+###
+
+<p align="left"></p>
 
 ###
 
