@@ -4,7 +4,7 @@
 - 🌱 Formada em Turismo e Gestão de RH;
 - 🌱 Desenvolvedora em treinamento;
 
-<div align="center">
+<div align="left">
 <a href="https://github.com/LohainePereira">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LohainePereira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
